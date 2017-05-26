@@ -1,3 +1,5 @@
+#This ruby project demonstrates what a linked list is and how to implement it
+
 #Define Node class which will hold the following:
 # value - this will store the value of the current list element
 # next - stores the next Node in the linked list
